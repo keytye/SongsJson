@@ -1,0 +1,1068 @@
+{
+  "songs": [
+    {
+      "probability": 0.7,
+      "artist": "ミツキヨ",
+      "title": "Hifumi Daisuki",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 149
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Constant Moderato Piano Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 185
+    },
+    {
+      "probability": 0.7,
+      "artist": "ミツキヨ",
+      "title": "Unwelcome School",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 120
+    },
+    {
+      "probability": 0.9,
+      "artist": "ミツキヨ",
+      "title": "Midsummer cat",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 140
+    },
+    {
+      "probability": 0.6,
+      "artist": "KARUT",
+      "title": "Shooting Stars",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 117
+    },
+    {
+      "probability": 0.65,
+      "artist": "Nor",
+      "title": "Daily Routine 247",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 116
+    },
+    {
+      "probability": 0.6,
+      "artist": "Nor",
+      "title": "Signal of Abydos",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 117
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Sugar story",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 120
+    },
+    {
+      "probability": 0.7,
+      "artist": "Nor",
+      "title": "Future Lab",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 121
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Endless Carnival",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 163
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "CrossFire Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 139
+    },
+    {
+      "probability": 0.7,
+      "artist": "KARUT",
+      "title": "Neo City Dive",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 137
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Pixel Time",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 130
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Hue",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 115
+    },
+    {
+      "probability": 0.9,
+      "artist": "ミツキヨ",
+      "title": "Luminous Memory",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 137
+    },
+    {
+      "probability": 0.6,
+      "artist": "ミツキヨ",
+      "title": "Bunny Bunny Carrot Carrot",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 116
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Colorful Mess",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 123
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Vivid Night",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 105
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Barrier",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 121
+    },
+    {
+      "probability": 0.25,
+      "artist": "KARUT",
+      "title": "Black Suit",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 111
+    },
+    {
+      "probability": 0.25,
+      "artist": "Nor",
+      "title": "Crucial Issue",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 112
+    },
+    {
+      "probability": 0.25,
+      "artist": "ミツキヨ",
+      "title": "Formless Dream",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 121
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "GGF",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 112
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Hello to Halo",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 105
+    },
+    {
+      "probability": 0.6,
+      "artist": "Nor",
+      "title": "Midnight Trip",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 94
+    },
+    {
+      "probability": 0.75,
+      "artist": "ミツキヨ",
+      "title": "Romantic Smile",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 133
+    },
+    {
+      "probability": 0.65,
+      "artist": "ミツキヨ",
+      "title": "Guruguru Usagi",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 137
+    },
+    {
+      "probability": 0.65,
+      "artist": "ミツキヨ",
+      "title": "Lovely Picnic",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 139
+    },
+    {
+      "probability": 0.7,
+      "artist": "ミツキヨ",
+      "title": "Colorful Beach",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 124
+    },
+    {
+      "probability": 0.5,
+      "duration": 107.998,
+      "title": "Aoharu",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "artist": "Nor"
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Alkaline Tears",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 146
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Morose Dreamer",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 141
+    },
+    {
+      "probability": 0.3,
+      "artist": "KARUT",
+      "title": "Agnus Dei",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 126
+    },
+    {
+      "probability": 0.8,
+      "artist": "Nor",
+      "title": "RE Aoharu",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 141
+    },
+    {
+      "probability": 0.3,
+      "artist": "Nor",
+      "title": "Moment",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 101
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Funky Road",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 131
+    },
+    {
+      "probability": 0.65,
+      "artist": "KARUT",
+      "title": "Let me think about it",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 130
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Shady Girls",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 155
+    },
+    {
+      "probability": 0.55,
+      "artist": "ミツキヨ",
+      "title": "Fruitful Blossom",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 88
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "SAKURA PUNCH Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Foolish Days",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 128
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Virtual Storm Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 132
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Tech N Tech Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Summer Bounce",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 139
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Blue New Battle",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 96
+    },
+    {
+      "probability": 0.65,
+      "artist": "Nor",
+      "title": "Tasty New Year",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 72
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Starting Pistol",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 114
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "NERINERI CHALLENGE",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.6,
+      "artist": "ミツキヨ",
+      "title": "Interface Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Encroached Sky",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 119
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Polyphonic",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 123
+    },
+    {
+      "probability": 0.85,
+      "artist": "ミツキヨ",
+      "title": "Aoharu Band Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 115
+    },
+    {
+      "probability": 0.75,
+      "artist": "ミツキヨ",
+      "title": "Our New Story",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 30
+    },
+    {
+      "probability": 0.65,
+      "artist": "Nor",
+      "title": "GIVE ME CHOCO♡",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 95
+    },
+    {
+      "probability": 0.65,
+      "artist": "ミツキヨ",
+      "title": "Koi is Love",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 109
+    },
+    {
+      "probability": 0.55,
+      "artist": "Nor",
+      "title": "Han-nari",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 102
+    },
+    {
+      "probability": 0.7,
+      "artist": "ミツキヨ",
+      "title": "TOMODACHI Summer",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 109
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Luxury Cool",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 125
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Hinagesi",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 120
+    },
+    {
+      "probability": 0.4,
+      "artist": "Nor",
+      "title": "Getsurin",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 109
+    },
+    {
+      "probability": 0.9,
+      "artist": "ミツキヨ",
+      "title": "Cotton Candy Island",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 123
+    },
+    {
+      "probability": 0.55,
+      "artist": "Nor",
+      "title": "Na Na Natsu!",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 120
+    },
+    {
+      "probability": 0.7,
+      "artist": "ミツキヨ",
+      "title": "Dive into Summer",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 118
+    },
+    {
+      "probability": 0.35,
+      "artist": "KARUT",
+      "title": "! ⸮ WAS IT A CAT I SAW?!",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 117
+    },
+    {
+      "probability": 0.75,
+      "artist": "Nor",
+      "title": "Usagi Flap",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 127
+    },
+    {
+      "probability": 0.8,
+      "artist": "ミツキヨ",
+      "title": "Yumeji Party",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 117
+    },
+    {
+      "probability": 0.65,
+      "artist": "ミツキヨ",
+      "title": "Blooming moon",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 129
+    },
+    {
+      "probability": 0.65,
+      "artist": "EmoCosine",
+      "title": "Summer Attack!",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 139
+    },
+    {
+      "probability": 0.65,
+      "artist": "YUC'e",
+      "title": "Ramune Lagoon",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 124
+    },
+    {
+      "probability": 0.6,
+      "artist": "ミツキヨ",
+      "title": "Hidden Treasure",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 131
+    },
+    {
+      "probability": 0.65,
+      "artist": "Nor",
+      "title": "Up to 21°C",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 131
+    },
+    {
+      "probability": 0.35,
+      "artist": "Nor",
+      "title": "Noble Hallway",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 113
+    },
+    {
+      "probability": 0.55,
+      "artist": "Nor",
+      "title": "Nichirin",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 130
+    },
+    {
+      "probability": 0.55,
+      "artist": "ミツキヨ",
+      "title": "Constant Moderato",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 137
+    },
+    {
+      "probability": 0.55,
+      "artist": "KARUT",
+      "title": "Connected Sky",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 121
+    },
+    {
+      "probability": 0.7,
+      "artist": "KARUT",
+      "title": "Water Drop",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 128
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "ARES",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 114
+    },
+    {
+      "probability": 0.55,
+      "artist": "KARUT",
+      "title": "Plug and Play",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 128
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "After the Beep",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 121
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Rolling beat",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 150
+    },
+    {
+      "probability": 0.55,
+      "artist": "KARUT",
+      "title": "Accelerator",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 111
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Interface",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 117
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Out of Control",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 141
+    },
+    {
+      "probability": 0.35,
+      "artist": "KARUT",
+      "title": "Mechanical JUNGLE Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 129
+    },
+    {
+      "probability": 0.3,
+      "artist": "Nor",
+      "title": "Fearful Utopia",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 123
+    },
+    {
+      "probability": 0.4,
+      "artist": "Nor",
+      "title": "SAKURA PUNCH",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 123
+    },
+    {
+      "probability": 0.4,
+      "artist": "Nor",
+      "title": "OperationD",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 113
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Coffee Cats",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 173
+    },
+    {
+      "probability": 0.55,
+      "artist": "ミツキヨ",
+      "title": "Honey Jam",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 138
+    },
+    {
+      "probability": 0.85,
+      "artist": "ミツキヨ",
+      "title": "Dolce Biblioteca",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 150
+    },
+    {
+      "probability": 0.35,
+      "artist": "Nor",
+      "title": "FEEEEVER TIME",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 89
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Walkthrough",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 110
+    },
+    {
+      "probability": 0.7,
+      "artist": "KARUT",
+      "title": "Glitch Street",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 126
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Goal Wo Nerae!",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 129
+    },
+    {
+      "probability": 0.6,
+      "artist": "KARUT",
+      "title": "Shooting Athletes",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 120
+    },
+    {
+      "probability": 0.6,
+      "artist": "KARUT",
+      "title": "After School Dessert",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 123
+    },
+    {
+      "probability": 0.35,
+      "artist": "ミツキヨ",
+      "title": "Operation☆DOTABATA!",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 116
+    },
+    {
+      "probability": 0.3,
+      "artist": "ミツキヨ",
+      "title": "Snow Pantomime",
+      "album": "Blue Archive Original Soundtrack Vol.2 ～Searching for the unknown truth～",
+      "duration": 162
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Step by Step",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 130
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Irasshaimase",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 130
+    },
+    {
+      "probability": 0.4,
+      "artist": "ミツキヨ",
+      "title": "Lemonade Diary",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 154
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Mechanical JUNGLE",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 123
+    },
+    {
+      "probability": 0.35,
+      "artist": "KARUT",
+      "title": "Tech N Tech",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 125
+    },
+    {
+      "probability": 0.3,
+      "artist": "KARUT",
+      "title": "Library of Omen",
+      "album": "Blue Archive Original Soundtrack Vol.1  ~Longing for the memorable days~",
+      "duration": 131
+    },
+    {
+      "probability": 0.5,
+      "artist": "ミツキヨ",
+      "title": "Kyrie Eleison",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 73
+    },
+    {
+      "probability": 0.4,
+      "artist": "KARUT",
+      "title": "Codex of Omen",
+      "album": "Blue Archive Original Soundtrack Vol.3 ～Reaching for the precious time～",
+      "duration": 116
+    },
+    {
+      "probability": 0.55,
+      "artist": "KARUT",
+      "title": "Wave & Conquer",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 124
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Illuminated Night",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 122
+    },
+    {
+      "probability": 0.55,
+      "artist": "ミツキヨ",
+      "title": "Dancing Falsehood",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 80
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "KIRISAME",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 113
+    },
+    {
+      "probability": 0.55,
+      "artist": "KARUT",
+      "title": "Poppin' Memories",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 109
+    },
+    {
+      "probability": 0.46,
+      "artist": "Nor",
+      "title": "Raise the Huddle",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 128
+    },
+    {
+      "probability": 0.3,
+      "artist": "ミツキヨ",
+      "title": "Gestalt Angst",
+      "album": "Blue Archive Original Soundtrack Vol.5～Striving for the bloomy festival～",
+      "duration": 80
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Summer Bounce Hard Arrange",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 113
+    },
+    {
+      "probability": 0.6,
+      "artist": "ミツキヨ",
+      "title": "Summertime Archive",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 107
+    },
+    {
+      "probability": 0.35,
+      "artist": "KARUT",
+      "title": "Kaiten Hurricane!!!",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "System All Green",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 120
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Responsibility",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 122
+    },
+    {
+      "probability": 0.6,
+      "artist": "ミツキヨ",
+      "title": "Welcome School",
+      "album": "Blue Archive Original Soundtrack Vol.4 ～Aiming for the ideal freedom～",
+      "duration": 160
+    },
+    {
+      "probability": 0.65,
+      "artist": "ミツキヨ",
+      "title": "Unwelcome Guest",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 127
+    },
+    {
+      "probability": 0.46,
+      "artist": "KARUT",
+      "title": "Fall into the rabbit hole",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 124
+    },
+    {
+      "probability": 0.5,
+      "artist": "KARUT",
+      "title": "Trigger For Ambition",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 124
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Hunter Bible",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 111
+    },
+    {
+      "probability": 0.75,
+      "artist": "ミツキヨ",
+      "title": "Cherry Berry Merry",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 131
+    },
+    {
+      "probability": 0.6,
+      "artist": "Nor",
+      "title": "Indoor Outdoor",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 111
+    },
+    {
+      "probability": 0.7,
+      "artist": "EmoCosine",
+      "title": "Dreaming Trip",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 146
+    },
+    {
+      "probability": 0.5,
+      "artist": "Nor",
+      "title": "Chilling Out",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 61
+    },
+    {
+      "probability": 0.7,
+      "artist": "Synthion",
+      "title": "Starry Confession",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 124
+    },
+    {
+      "probability": 0.6,
+      "artist": "7mai",
+      "title": "Ridiculous",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 56
+    },
+    {
+      "probability": 0.8,
+      "duration": 128.119,
+      "title": "U-n.I",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": 0.65,
+      "duration": 138.297,
+      "title": "Shoujo Delight",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.65",
+      "duration": 65.234,
+      "title": "Candy Step",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "Nor"
+    },
+    {
+      "probability": "0.5",
+      "duration": 63.43,
+      "title": "Miracle",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "Nor"
+    },
+    {
+      "probability": "0.6",
+      "duration": 131.355,
+      "title": "Dazzle Everyday",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.5",
+      "duration": 71.537,
+      "title": "U mak3 m3 smil3",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.6",
+      "duration": 142.892,
+      "title": "Shoujo Sorrow",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.65",
+      "duration": 123.374,
+      "title": "HIGH5LANDER",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "Nor"
+    },
+    {
+      "probability": "0.65",
+      "duration": 148.7,
+      "title": "0k@eri",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.65",
+      "duration": 262.943,
+      "title": "Gregorius I Symphony",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.7",
+      "duration": 141.263,
+      "title": "Expo Festa",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "EmoCosine"
+    },
+    {
+      "probability": "0.65",
+      "duration": 122.867,
+      "title": "P.A.J.A.M.A Sleep Over",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.75",
+      "duration": 115.332,
+      "title": "Tremendous Celebration",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "7mai"
+    },
+    {
+      "probability": "0.7",
+      "duration": 123.385,
+      "title": "Flip Flap Festival!",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "Synthion"
+    },
+    {
+      "probability": "0.65",
+      "duration": 151.937,
+      "title": "Let me go Seaside",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.65",
+      "duration": 133.715,
+      "title": "Bluemark Canvas",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "ミツキヨ"
+    },
+    {
+      "probability": "0.6",
+      "duration": 51.206,
+      "title": "Rendezvous Recorder ver",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.5",
+      "duration": 129.313,
+      "title": "Rendezvous",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.6",
+      "duration": 130.713,
+      "title": "Oriental Bounce",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.5",
+      "duration": 122.767,
+      "title": "The Dragon Express",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.6",
+      "duration": 123.189,
+      "title": "Oriental Drop",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": "0.6",
+      "duration": 107.945,
+      "title": "Golden Shangri-la",
+      "album": "Blue Archive Original Soundtrack Vol.7～Harmonizing for the Hearts of Each～",
+      "artist": "KARUT"
+    },
+    {
+      "probability": 0.55,
+      "artist": "ミツキヨ",
+      "title": "Serene Scenario",
+      "album": "Blue Archive Original Soundtrack Vol.6～Keeping for the abiding belief～",
+      "duration": 59
+    }
+  ]
+}
